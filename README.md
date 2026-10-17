@@ -1,5 +1,7 @@
 # Bulua Hub — Barangay Bulua Community Information Website
 
+> **⚠️ Notice:** *This platform and its repository files are strictly intended for a mini-project.*
+
 Welcome to the official repository for **Bulua Hub**, a comprehensive multi-page community information platform dedicated to celebrating the service, heritage, and *bayanihan* of **Barangay Bulua**, the dynamic western gateway of Cagayan de Oro City, Philippines.
 
 ---
@@ -8,7 +10,10 @@ Welcome to the official repository for **Bulua Hub**, a comprehensive multi-page
 
 **Bulua Hub** serves as an interactive digital directory and cultural archive for residents, visitors, and commuters. The platform bridges traditional heritage—such as Bulua's ancestral clay pottery industry—with the fast economic growth driven by its role as Northern Mindanao's major commercial transit hub.
 
-### Key Pages Included:
+---
+
+## 📄 Key Pages Included
+
 1. **`index.html` (Home):** Welcome portal featuring local service quick links, the latest updates on the annual pottery heritage showcase, and dynamic interactive announcements.
 2. **`about.html` (History & Profile):** Chronicles Bulua's transformation from a coastal farming settlement named after its clear, bubbling freshwater springs into an urban economic center. Includes interactive highway perimeter maps.
 3. **`officials.html` (Barangay Council):** The updated leadership organizational structure detailing elected administrative officials (Punong Barangay, Barangay Kagawads, and Sangguniang Kabataan).
@@ -56,7 +61,6 @@ Welcome to the official repository for **Bulua Hub**, a comprehensive multi-page
 
 ---
 
-
 ## 🚀 How to Run Locally
 
 1. **Clone the repository:**
@@ -73,6 +77,7 @@ Welcome to the official repository for **Bulua Hub**, a comprehensive multi-page
 ---
 
 ## 📝 License & Attribution
+
 All content context, structural maps, and administrative logs map to official public records hosted by the **City Historical Commission Archives**, **DILG City Directory Registry**, and the **City Disaster Risk Reduction Management Office (CDRRMO)** of Cagayan de Oro. 
 
 &copy; 2026 Barangay Bulua. All Rights Reserved.
