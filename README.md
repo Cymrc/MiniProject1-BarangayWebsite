@@ -1,3 +1,8 @@
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c50d934a-16d4-45da-aead-5db7438ecc39" />
+
+
+
+
 # Bulua Hub — Barangay Bulua Community Information Website
 
 > **⚠️ Notice:** *This platform and its repository files are strictly intended for a mini-project.*
